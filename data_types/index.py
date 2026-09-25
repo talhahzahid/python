@@ -46,3 +46,6 @@ print(text1)
 
 numbers = "0123456789"
 print(numbers[0:6:2])
+
+
+# list in python

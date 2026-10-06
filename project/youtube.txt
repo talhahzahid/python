@@ -1,10 +1,1 @@
-[
-    {
-        "name": "test 1",
-        "time": "2 mins"
-    },
-    {
-        "name": "another video",
-        "time": "4 mins"
-    }
-]
+[{"name": "test test", "time": "1 minss"}, {"name": "another video", "time": "4 mins"}]
